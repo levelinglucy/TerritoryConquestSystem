@@ -13,8 +13,7 @@
 
 # Territory Conquest System
 
-**Created by Dylan Smith**  
-*With guidance and code from Noe (ChatGPT-4o), at the request of LevelingLucy*
+**Created by Noe and LevelingLucy
 
 ...
 
