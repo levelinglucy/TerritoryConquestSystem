@@ -1,0 +1,1 @@
+-- GUI object structure and settings for DeployMenu.

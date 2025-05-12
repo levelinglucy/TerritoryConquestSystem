@@ -1,0 +1,1 @@
+-- monitorCombat(model) system to check for nearby enemies and deal damage.

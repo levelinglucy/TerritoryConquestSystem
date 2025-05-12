@@ -1,0 +1,1 @@
+-- Use Humanoids, Motor6Ds and Animator to add animations.

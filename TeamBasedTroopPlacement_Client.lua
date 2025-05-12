@@ -1,0 +1,1 @@
+-- Client-side selection and mouse click transmitter.

@@ -1,0 +1,1 @@
+-- countTeamTroopsInTerritory(teamName, territoryModel) helper.

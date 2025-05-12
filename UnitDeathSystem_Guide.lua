@@ -1,0 +1,1 @@
+-- Detect Humanoid.Died or Health.Value <= 0 and cleanup the unit.

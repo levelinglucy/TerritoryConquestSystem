@@ -1,0 +1,1 @@
+-- Adds Resources value to players under leaderstats.

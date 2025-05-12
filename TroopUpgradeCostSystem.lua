@@ -1,0 +1,1 @@
+-- GetTroopCost(modelName) returns cost for troop name.

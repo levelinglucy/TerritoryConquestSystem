@@ -1,0 +1,1 @@
+-- Generates buttons like Infantry, Tank, Artillery in a GUI.

@@ -1,0 +1,1 @@
+-- Tags objects as "Hidden" and reveals based on player unit proximity.

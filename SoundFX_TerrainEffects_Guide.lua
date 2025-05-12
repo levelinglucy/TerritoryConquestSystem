@@ -1,0 +1,1 @@
+-- Trigger Sound:Play() and effects for tagged terrain areas.

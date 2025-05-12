@@ -1,0 +1,1 @@
+-- Core placement logic already explained, restored here.

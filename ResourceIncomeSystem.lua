@@ -1,0 +1,1 @@
+-- Passive income loop, grants resources per interval.
