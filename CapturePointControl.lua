@@ -1,1 +1,0 @@
--- Monitors capture zones and flips territory tags.
